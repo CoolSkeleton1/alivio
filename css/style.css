@@ -452,6 +452,24 @@ body {
     }
 }
 
+/* footer */
+
+.footer {
+    background-color: #245852;
+    padding: 95px 0 144px;
+    color: #fff;
+}
+
+footer .text {
+    margin-top: 60px;
+}
+
+footer .text:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
 @media screen and (max-width: 865px) {
     .logo {
         margin-right: 40px;
